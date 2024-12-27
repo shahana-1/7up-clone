@@ -1,0 +1,329 @@
+body{
+    margin: 0px;
+    overflow-x: hidden;
+}
+.header {
+  width: 100%;
+  height: 100px;
+  background: rgb(247, 154, 131);
+  border-bottom: 1px solid white;
+}
+body {
+  margin: 0;
+}
+.logo-image {
+  height: 75px;
+  margin-left: 25px;
+  margin-top: 10px;
+}
+.label-text {
+  padding: 17px 0;
+  color: #fff;
+  font-family: "Korolev";
+  font-weight: 500;
+  font-size: 22px;
+  text-decoration: none;
+  text-transform: uppercase;
+  background: transparent;
+}
+.logos {
+  max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+}
+.label {
+  color: white;
+  font-size: 20px;
+  padding: 20px;
+  font-weight: 500;
+  text-decoration: none;
+  background: transparent;
+  font-family: monospace;
+  text-transform: uppercase;
+  margin-left: 460px;
+}
+.label2 {
+  color: white;
+  font-size: 20px;
+  padding: 15px;
+  text-decoration: none;
+  font-family: monospace;
+  font-weight: 400;
+  text-transform: uppercase;
+  margin-left: 2px;
+}
+.label3 {
+  color: #fff;
+  font-size: 20px;
+  text-transform: uppercase;
+  font-family: monospace;
+  padding: 15px;
+  margin-left: 6px;
+}
+.logos1 {
+  max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+  margin-left: 25px;
+}
+.logos2 {
+  max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+}
+.logos3 {
+  max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+}
+.logos4 {
+  max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+}
+.logos5 {
+  max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+}
+.logos6 {
+  max-width: 29px;
+  padding-top: 8px;
+  padding-right: 1px;
+  cursor: pointer;
+}
+
+.main1 {
+  position: relative;
+}
+.page1 {
+  background-size: cover;
+  width: 100%;
+}
+.text-h1 {
+  position: absolute;
+
+  top: 175px;
+  text-transform: uppercase;
+  font-size: 65px;
+  color: #fff;
+  font-family: monospace;
+  margin-left: 105px;
+  font-weight: bold;
+}
+
+.recipies {
+  position: absolute;
+  top: 63%;
+  margin-left: 119px;
+  color: #fff;
+  background: transparent;
+  font-size: 23px;
+  border: 2px solid;
+  padding: 8px 25px;
+  border-radius: 25px;
+  font-family: system-ui;
+}
+.main2 {
+  position: relative;
+}
+.secondpage {
+  position: relative;
+  top: 334px;
+  background-size: cover;
+  width: 100%;
+  height: 728px;
+  vertical-align: middle;
+  margin-top: -338px;
+
+}
+.recipes{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 1.1;
+    position: relative;
+    top: 21px;
+    left: 276px;
+    color: white;
+}
+.secondcontent{
+    margin-bottom: 20px;
+    font-size: 16px;
+    line-height: 2.8px;
+    color: white;
+    position: relative;
+    top: -1px;
+    left: 183px;
+}
+.button2{
+        background: transparent;
+        border-radius: 30px;
+        width: 177px;
+        height: 37.4px;
+        font-size: 20px;
+        font-family: "poppins";
+        position: relative;
+        top: 1px;
+        left: 260px;
+        border-color: white;
+        border-style: solid;
+        color: white;
+        cursor: pointer;
+    }
+.secondbox{
+    width: 683.64px;
+    height: 194.38px;
+    background-color: rgba(10, 91, 43, 0.8);
+    border-radius: 100px;
+    z-index: 1;
+    position: relative;
+    top: -128px;
+    left: 334px;
+}
+.thirdpage {
+    position: relative;
+    top: 334px;
+    background-size: cover;
+    width: 100%;
+    height: 728px;
+    vertical-align: middle;
+    margin-top: -338px;
+  
+  }
+  .store-locator{
+      font-size: 36px;
+      font-weight: 500;
+      line-height: 1.1;
+      position: relative;
+      top: 21px;
+      left: 210px;
+      color: white;
+  }
+  .thirdcontent{
+      margin-bottom: 20px;
+      font-size: 16px;
+      line-height: 2.8px;
+      color: white;
+      position: relative;
+      top: -1px;
+      left: 140px;
+  }
+  .button3{
+          background: transparent;
+          border-radius: 30px;
+          width: 177px;
+          height: 37.4px;
+          font-size: 20px;
+          font-family: "poppins";
+          position: relative;
+          top: 1px;
+          left: 260px;
+          border-color: white;
+          border-style: solid;
+          color: white;
+          cursor: pointer;
+      }
+  .thirdbox{
+      width: 683.64px;
+      height: 194.38px;
+      background-color: rgba(10, 91, 43, 0.8);
+      border-radius: 100px;
+      z-index: 1;
+      position: relative;
+      top: -128px;
+      left: 334px;
+  }
+  
+.footer {
+    width: 100%;
+    height: 130px;
+    background-color:#3e3e3e ;
+    border-bottom: 0;
+    position: relative;
+    top: 104px;
+    }
+.footer-text1{
+   
+        font-family: math;
+        color: white;
+        margin-left: 100px;
+        padding: 25px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+.footer-text2{
+    
+        font-family: math;
+        color: #fff;
+        margin-left: 1px;
+        padding: 1px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+.footer-text3{
+        font-family: math;
+        color: #fff;
+        margin-left: 18px;
+        padding: 1px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+
+.footer-text4{
+    
+        font-family: math;
+        color: #fff;
+        margin-left: 12px;
+        padding: 2px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+   .footer-text5 {
+        color: #fff;
+        padding: 12px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+    .footer-text6{
+        color: #fff;
+        padding: 12px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+    .footer-text7{
+        color: #fff;
+        padding: 12px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+    .footer-text8{
+        color: #fff;
+        padding: 12px;
+        font-size: 13px;
+        position: relative;
+        top: 18px;
+    }
+    .para{
+            padding: 20px;
+            color: white;
+            margin-left: 255px;
+            font-size: 13px;
+        }
+    
+    
+    
+
+
